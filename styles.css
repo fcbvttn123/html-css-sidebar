@@ -73,9 +73,9 @@ body {
 /* Link Box */
 
 .link-box {
-    height: calc(100vh - (50px + 2.5rem));
+    height: calc(100vh - (50px + 2.5rem + 40px));
     overflow-y: auto;
-    padding-bottom: 2rem;
+    /* padding-bottom: 2rem; */
 }
 
 .link-box::-webkit-scrollbar {
